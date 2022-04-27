@@ -99,7 +99,6 @@
 				E7309455281961EA00E3933E /* Core */,
 				E7309456281961F900E3933E /* Resources */,
 				E73094572819621A00E3933E /* Environments */,
-				E73094222818333400E3933E /* SceneDelegate.swift */,
 			);
 			path = GBShop;
 			sourceTree = "<group>";
@@ -125,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				E73094202818333400E3933E /* AppDelegate.swift */,
+				E73094222818333400E3933E /* SceneDelegate.swift */,
 				E73094512819610400E3933E /* BussinessLogic */,
 				E73094522819611B00E3933E /* Entity */,
 				E73094532819613E00E3933E /* Assembly */,
