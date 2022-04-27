@@ -14,6 +14,7 @@
 		E73094382818333A00E3933E /* GBShopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73094372818333A00E3933E /* GBShopTests.swift */; };
 		E73094422818333A00E3933E /* GBShopUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73094412818333A00E3933E /* GBShopUITests.swift */; };
 		E73094442818333A00E3933E /* GBShopUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73094432818333A00E3933E /* GBShopUITestsLaunchTests.swift */; };
+		E730945928199EC900E3933E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E730945828199EC900E3933E /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		E730943D2818333A00E3933E /* GBShopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GBShopUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E73094412818333A00E3933E /* GBShopUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GBShopUITests.swift; sourceTree = "<group>"; };
 		E73094432818333A00E3933E /* GBShopUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GBShopUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E730945828199EC900E3933E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 		E73094542819614C00E3933E /* Flows */ = {
 			isa = PBXGroup;
 			children = (
+				E730945828199EC900E3933E /* ViewController.swift */,
 			);
 			path = Flows;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E730945928199EC900E3933E /* ViewController.swift in Sources */,
 				E73094212818333400E3933E /* AppDelegate.swift in Sources */,
 				E73094232818333400E3933E /* SceneDelegate.swift in Sources */,
 			);
